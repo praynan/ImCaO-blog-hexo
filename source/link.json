@@ -112,76 +112,82 @@
         "descr": "foolish fox"
       },
       {
-        "name": "阿楠",
-        "link": "https://nanzx.top",
-        "avatar": "https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg",
-        "descr": "百学须先立志"
+        "名称":"阿楠",
+        "链接":"https://nanzx.top",
+        "头像":"https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg",
+        "描述":"百学须先立志"
       },
       {
-        "name": "小康博客",
-        "link": "https://www.antmoe.com",
-        "avatar": "https://npm.elemecdn.com/kang-static@latest/avatar.jpg",
-        "descr": "一个收藏回忆与分享技术的地方！"
+        "名称":"小康博客",
+        "链接":"https://www.antmoe.com",
+        "头像":"https://npm.elemecdn.com/kang-static@latest/avatar.jpg",
+        "描述":"一个收藏回忆与分享技术的地方！"
       },
       {
-        "name": "Eurkon",
-        "link": "https://blog.eurkon.com",
-        "avatar": "https://blog.eurkon.com/images/user/avatar.jpg",
-        "descr": "不只是代码的搬运工"
+        "名称":"Eurkon",
+        "链接":"https://blog.eurkon.com",
+        "头像":"https://blog.eurkon.com/images/user/avatar.jpg",
+        "描述":"不只是代码的搬运工"
       },
       {
-        "name": "星空下的YZY",
-        "link": "https://226yzy.com",
-        "avatar": "https://i.imgtg.com/2022/02/15/TXcaN.jpg",
-        "descr": "记录一枚菜鸟的征程"
+        "名称":"星空下的YZY",
+        "链接":"https://226yzy.com",
+        "头像":"https://i.imgtg.com/2022/02/15/TXcaN.jpg",
+        "描述":"记录一枚菜鸟的征程"
       },
       {
-        "name": "HalfA博客",
-        "link": "https://www.mahaofei.com/",
-        "avatar": "https://image.mahaofei.com/avatar.jpg",
-        "descr": "无限进步！"
+        "名称":"Halfa博客",
+        "链接":"https://www.mahaofei.com/",
+        "头像":"https://image.mahaofei.com/avatar.jpg",
+        "描述":"无限进步！"
       },
       {
-        "name": "UtopiaXC’s Sites",
-        "link": "https://www.utopiaxc.cn/",
-        "avatar": "https://imgs.utopiaxc.cn/2021/08/28/ccd08b1e5dd5b.png",
-        "descr": "尽管如此，世界依旧美丽"
+        "名称":"UtopiaXC的站点",
+        "链接":"https://www.utopiaxc.cn/",
+        "头像":"https://imgs.utopiaxc.cn/2021/08/28/ccd08b1e5dd5b.png",
+        "描述":"尽管如此，世界依旧美丽"
       },
       {
-        "name": "幼稚园园长",
-        "link": "https://yzyyz.top",
-        "avatar": "https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/img/bloger.jpeg",
-        "descr": "学无止境 知行合一"
+        "名称":"幼稚园园长",
+        "链接":"https://yzyyz.top",
+        "头像":"https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/img/bloger.jpeg",
+        "描述":"学无止境 知行合一"
       },
       {
-        "name": "碗里有肉丝",
-        "link": "https://urosi.cn",
-        "avatar": "https://urosi.cn/tou.png",
-        "descr": "记录生活，分享你我"
+        "名称":"碗里有肉丝",
+        "链接":"https://urosi.cn",
+        "头像":"https://urosi.cn/tou.png",
+        "描述":"记录生活，分享你我"
       },
       {
-        "name": "Xlenco's logs",
-        "link": "https://xlenco.eu.org",
-        "avatar": "https://xlenco.eu.org/img/head.webp",
-        "descr": "最好的地方是没去过的地方，最好的时光，是回不来的时光。"
+        "名称":Xlenco"的日志",
+        "链接":"https://xlenco.eu.org",
+        "头像":"https://xlenco.eu.org/img/head.webp",
+        "描述":"最好的地方是没去过的地方，最好的时光，是回不来的时光。"
+      }
+      {
+        "名称":"祈楠资源网",
+        "链接":"https://www.praynan.com",
+        "头像":"https://www.praynan.com/img/logo.jpg",
+        "描述":"全网优质资源分享平台"
       }
     ]
   },
   {
-    "class_name": "十年之约 ✉️",
-    "class_desc": "每一个前十年都想不到后十年我会演变成何等模样，可知人生无常，没有什么规律，没有什么必然。",
-    "link_list": [
+    "class_name":"十年之约 ✉️",
+    "class_desc":"每一个前十年都想不到后十年我会演变成何等模样，可知人生无常，没有什么规律，没有什么必然。",
+    "链接列表":[
       {
-        "name": "虫洞",
-        "link": "https://www.foreverblog.cn/go.html",
-        "avatar": "https://cdn.imcao.cn/source/assets/img/wormhole.gif",
-        "descr": "一个人的寂寞，一群人的狂欢。"
+        "名称":"虫洞",
+        "链接":"https://www.foreverblog.cn/go.html",
+        "头像":"https://cdn.imcao.cn/source/assets/img/wormhole.gif",
+        "描述":"一个人的寂寞，一群人的狂欢。"
       },
       {
-        "name": "开往",
-        "link": "https://www.travellings.cn/go.html",
-        "avatar": "https://www.travellings.cn/assets/travelling-dark.png",
-        "descr": "开往下一个世界的列车就要出发了"
+        "名称":"开往",
+        "链接":"https://www.travellings.cn/go.html",
+        "头像":"https://www.travellings.cn/assets/travelling-dark.png",
+        "描述":"开往下一个世界的列车就要出发了"
       }
     ]
   }
